@@ -402,3 +402,4 @@ launchSettings.json
 # Publish profiles
 *.pubxml
 *.pubxml.user
+/Backend/RealtimeChatApp/Properties.rar
