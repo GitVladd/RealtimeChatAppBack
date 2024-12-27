@@ -391,3 +391,14 @@ ApplicationInsights.config
 **/connection.json
 **/secrets.json
 **/credentials.json
+
+# Properties
+**/Properties/PublishProfiles/
+**/Properties/ServiceDependencies/
+**/Properties/*.user
+**/Properties/serviceDependencies.*.json
+launchSettings.json
+
+# Publish profiles
+*.pubxml
+*.pubxml.user
