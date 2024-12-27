@@ -403,3 +403,4 @@ launchSettings.json
 *.pubxml
 *.pubxml.user
 /Backend/RealtimeChatApp/Properties.rar
+/Backend/RealtimeChatApp/Properties/serviceDependencies.json
