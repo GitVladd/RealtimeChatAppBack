@@ -1,9 +1,5 @@
 # Realtime Chat Application Backend
 
-[English](#english) | [Русский](#russian)
-
-## English
-
 A real-time chat application backend built with ASP.NET Core, SignalR, and Azure services. The application provides real-time messaging capabilities with sentiment analysis for messages.
 
 ### Features
@@ -53,6 +49,7 @@ A real-time chat application backend built with ASP.NET Core, SignalR, and Azure
    - Azure Key Vault
    - Azure Cognitive Services
    - Azure SignalR Service (optional)
+5. Edit KeyVaultUrl and AllowedOrigins in appsettings.json
 
 ### Getting Started
 
