@@ -2,7 +2,7 @@
 
 A real-time chat application backend built with ASP.NET Core, SignalR, and Azure services. The application provides real-time messaging capabilities with sentiment analysis for messages.
 
-Link on UI Project: https://github.com/GitVladd/RealtimeChatAppUI
+Link on this project UI: https://github.com/GitVladd/RealtimeChatAppUI
 
 ### Features
 
